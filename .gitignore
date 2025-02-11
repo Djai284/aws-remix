@@ -1,0 +1,5 @@
+**/.venv
+**/__pycache__
+**/repomix-output.txt
+**/.pytest_cache/
+**/aws_remix.egg-info/
